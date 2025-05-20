@@ -69,7 +69,7 @@ _Optional: Add screenshots here_
 
 ## Credits
 
-- **@yourGitHubHandle** – Project owner and system modder  
+- **@Sahil71684** – Project owner and system modder  
 - ChatGPT – Tech support and system patch strategist  
 - OpenCore Legacy Patcher Team – Open-source MVPs  
 - Mac community for inspiration and guidance
